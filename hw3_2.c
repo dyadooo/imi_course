@@ -4,7 +4,7 @@
 
 int main()
 {
-	int rnum = 0, rsum = 0,rmin=0,rmax=0;
+	int rnum = 0, rsum = 0,rmin=20,rmax=0;
 	double average = 0;
 	time_t t;
 
